@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-24",
+  "start_time": "2026-09-24 22:22:42 KST",
+  "end_time": "2026-09-24 22:22:42 KST",
+  "duration_seconds": 0,
+  "collected": {
+    "sp500": 7706.03,
+    "nasdaq": 26936.04,
+    "dow_jones": 51511.59,
+    "kospi": 7080.92,
+    "kosdaq": 844.48,
+    "nikkei": 65513.99,
+    "shanghai": 3936.5,
+    "wti_oil": 93.96,
+    "brent_oil": 101.61,
+    "gold": 4250.85,
+    "copper": 6.68,
+    "dxy": 101.08,
+    "usd_krw": 1369.73,
+    "usd_jpy": 158.28,
+    "eur_usd": 1.1379,
+    "us_10y_yield": 5.12,
+    "vix": 15.18,
+    "us_cpi": 3.4,
+    "fed_rate": 4.0,
+    "china_pmi": 49.8
+  },
+  "none_count": 0,
+  "notes": [
+    "KOSPI/KOSDAQ: Sep 23 close (Chuseok holiday Sep 24-25)",
+    "Shanghai: Sep 23 close",
+    "Brent oil: Sep 23 close",
+    "USD/JPY: Sep 23 close",
+    "China PMI: August 2026 reading (Sep not yet released)",
+    "Fed rate: upper bound of 3.75-4.00% range"
+  ]
+}
