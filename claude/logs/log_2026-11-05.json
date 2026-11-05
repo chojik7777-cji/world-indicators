@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-05",
+  "start_time": "2026-11-05 22:12:44 KST",
+  "end_time": "2026-11-05 22:15:12 KST",
+  "duration_seconds": 148,
+  "collected": {
+    "sp500": 7698.86,
+    "nasdaq": 25821.13,
+    "dow_jones": 53321.61,
+    "kospi": 5383.8,
+    "kosdaq": 678.41,
+    "nikkei": 61077.9,
+    "shanghai": 3638.03,
+    "wti_oil": 87.94,
+    "brent_oil": 93.9,
+    "gold": 4136.0,
+    "copper": 6.39,
+    "dxy": 101.27,
+    "usd_krw": 1342.72,
+    "usd_jpy": 158.39,
+    "eur_usd": 1.1267,
+    "us_10y_yield": 4.86,
+    "vix": 16.61,
+    "us_cpi": 3.7,
+    "fed_rate": 4.0,
+    "china_pmi": 49.3
+  },
+  "none_count": 0
+}
